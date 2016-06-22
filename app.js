@@ -125,13 +125,13 @@
 	  keyMap: keyMap,
 	  slides: __exerslide_slides__
 	});
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./116522-87782-1f6ommn/slides.js */ 1)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./116522-88180-czz3ul/slides.js */ 1)))
 
 /***/ },
 /* 1 */
-/*!****************************************!*\
-  !*** ./116522-87782-1f6ommn/slides.js ***!
-  \****************************************/
+/*!***************************************!*\
+  !*** ./116522-88180-czz3ul/slides.js ***!
+  \***************************************/
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -145,10 +145,10 @@
   \*****************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER14666369764722__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER14666369764722__ = __SLIDE_LOADER14666369764722__ ?
-	  __SLIDE_LOADER14666369764722__.default || __SLIDE_LOADER14666369764722__ :
-	  __SLIDE_LOADER14666369764722__;
+	var __SLIDE_LOADER14666372216714__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER14666372216714__ = __SLIDE_LOADER14666372216714__ ?
+	  __SLIDE_LOADER14666372216714__.default || __SLIDE_LOADER14666372216714__ :
+	  __SLIDE_LOADER14666372216714__;
 	module.exports = {
 	  "options": {
 	    "title": "Using the Learning Portal",
@@ -158,7 +158,7 @@
 	  "pathHash": "143ed673a5196c8fad2c933a8a13f26f",
 	  "__source__": "---\ntitle: Using the Learning Portal\nchapter: Introduction\n---\nWelcome to the Teach Access Online Portal! This resource is part of the Teach Access Initiative, and provides best practices for making accessible mobile and web apps. This portal currently provides basic training for developers and designers, with more disciplines to come! If you are new to accessibility, you've come to the right place - this portal will help you get a solid footing on accessibility via hands-on tutorials and useful reference guides. Follow the instructions below for using and interacting with the portal.\n\n1. You can use the left and right arrow keys to navigate through the slides.\n\n2. Each slide has some core concepts, code samples, and one or more exercises. After you complete an exercise,\nuse the verify button to check whether your solution is correct.\n\n3. You can also verify the code sample output by reading it in Chrome with VoiceOver - Apple's built-in screen reader. Here are some instructions for navigating with VoiceOver:\n  * <kbd>cmd</kbd> + <kbd>F5</kbd> turns VoiceOver on/off\n  * <kbd>tab</kbd> navigates to an interactive element\n  * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>right arrow</kbd> (repeatedly) navigates to the next element\n  * <kbd>ctrl</kbd> + <kbd>opt</kbd> + <kbd>cmd</kbd> + <kbd>h</kbd> (repeatedly) navigates by headings\n\n4. When verifying with VoiceOver, use Chrome on a Mac for the best experience. However, the \"Verify\" button provided after each exercise will work with any browser/OS combination.\n\n5.     ARIA stands for Accessible Rich Internet Applications, a W3C standard for building accessible user interfaces on the web.\n\nHappy learning! <i class=\"fa fa-smile-o\"><i class=\"accessible_elem\">Smiley Icon</i></i>\n",
 	  "__path__": "slides/00-Introduction/00-instructions.md",
-	  "contentConverter": __SLIDE_LOADER14666369764722__
+	  "contentConverter": __SLIDE_LOADER14666372216714__
 	};
 
 /***/ },
@@ -10031,10 +10031,10 @@
   \*********************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER14666369764570__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER14666369764570__ = __SLIDE_LOADER14666369764570__ ?
-	  __SLIDE_LOADER14666369764570__.default || __SLIDE_LOADER14666369764570__ :
-	  __SLIDE_LOADER14666369764570__;
+	var __SLIDE_LOADER14666372216640__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER14666372216640__ = __SLIDE_LOADER14666372216640__ ?
+	  __SLIDE_LOADER14666372216640__.default || __SLIDE_LOADER14666372216640__ :
+	  __SLIDE_LOADER14666372216640__;
 	module.exports = {
 	  "options": {
 	    "title": "FAQs",
@@ -10044,7 +10044,7 @@
 	  "pathHash": "143ed673a5196c8fad2c933a8a13f26f",
 	  "__source__": "---\ntitle: FAQs\nchapter: Introduction\n---\nGot questions about Teach Access and the Teach Access Learning Portal? Fire away!\n\n**What is Teach Access?**\n\nTeach Access is a collective of leading tech companies, academic institutions and advocacy organizations working together to embed accessibility into higher education and learning experiences for students of technology.\n\n**What is the Teach Access Learning Portal?**\n\nThe Teach Access Learning Portal is a hands-on tutorial that covers some best practices for writing accessible software and designing inclusive experiences.\n\n**What assistive technologies can I use with this portal?**\n\nThe portal should work with most assistive technologies, but Apple's VoiceOver is the recommended desktop screen reader for the training exercises.\n\n**Where can I find more information on accessibility?**\n\nHere are a few resources to get you started:\n- Web Content Accessibility Guidelines: https://www.w3.org/WAI/intro/wcag\n- WebAIM: http://webaim.org/\n\n**What are some good, free, developer tools for accessibility?**\n\n- WAVE by WebAIM for general website accessibility: http://wave.webaim.org/\n- Juicy Studio's Readability Test: http://juicystudio.com/services/readability.php\n- Vischeck's Color Blindness Checker: http://www.vischeck.com/\n\n**Are there jobs in the field of accessibility?**\n\nDefinitely, and the industry is growing. Take a look here: https://twitter.com/a11yjobs\n",
 	  "__path__": "slides/00-Introduction/01-faqs.md",
-	  "contentConverter": __SLIDE_LOADER14666369764570__
+	  "contentConverter": __SLIDE_LOADER14666372216640__
 	};
 
 /***/ },
@@ -10054,10 +10054,10 @@
   \******************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER14666369764744__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER14666369764744__ = __SLIDE_LOADER14666369764744__ ?
-	  __SLIDE_LOADER14666369764744__.default || __SLIDE_LOADER14666369764744__ :
-	  __SLIDE_LOADER14666369764744__;
+	var __SLIDE_LOADER14666372216692__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER14666372216692__ = __SLIDE_LOADER14666372216692__ ?
+	  __SLIDE_LOADER14666372216692__.default || __SLIDE_LOADER14666372216692__ :
+	  __SLIDE_LOADER14666372216692__;
 	module.exports = {
 	  "options": {
 	    "title": "Introduction",
@@ -10067,7 +10067,7 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Introduction\nchapter: Writing Code\n---\nIn this section, you'll learn a few key user interface implementation techniques that will ensure you are building experiences that anyone can use. The world of accessibility is vast and diverse, so this tutorial won't cover everything - but it will get you started in the right direction and provide you with some basic best practices for writing accessible software. In addition, while the current examples are web based, many of the principles hold true on mobile and most of the major mobile platforms support robust accessibility APIs. Happy code writing!\n",
 	  "__path__": "slides/02-Developers/00-ui-introduction.md",
-	  "contentConverter": __SLIDE_LOADER14666369764744__
+	  "contentConverter": __SLIDE_LOADER14666372216692__
 	};
 
 /***/ },
@@ -10077,14 +10077,14 @@
   \****************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697650712__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697650712__ = __SLIDE_LOADER146663697650712__ ?
-	  __SLIDE_LOADER146663697650712__.default || __SLIDE_LOADER146663697650712__ :
-	  __SLIDE_LOADER146663697650712__;
-	var __SLIDE_LOADER146663697650713__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697650713__ = __SLIDE_LOADER146663697650713__ ?
-	  __SLIDE_LOADER146663697650713__.default || __SLIDE_LOADER146663697650713__ :
-	  __SLIDE_LOADER146663697650713__;
+	var __SLIDE_LOADER14666372216766__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER14666372216766__ = __SLIDE_LOADER14666372216766__ ?
+	  __SLIDE_LOADER14666372216766__.default || __SLIDE_LOADER14666372216766__ :
+	  __SLIDE_LOADER14666372216766__;
+	var __SLIDE_LOADER14666372216767__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER14666372216767__ = __SLIDE_LOADER14666372216767__ ?
+	  __SLIDE_LOADER14666372216767__.default || __SLIDE_LOADER14666372216767__ :
+	  __SLIDE_LOADER14666372216767__;
 	module.exports = {
 	  "options": {
 	    "title": "Headings",
@@ -10111,8 +10111,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Headings\nchapter: Writing Code\n\nstyle: |\n  .fakeHeading {\n    font-size: 20px;\n    font-weight: bold;\n    margin: 0;\n  }\n\n  #slide h3 {\n    margin: 5px;\n  }\n\nlayoutData:\n  description: |\n    Headings provide structure to a page. A person using a screen reader can\n    navigate a page quickly using headings on the page if the headings used are\n    semantic. Semantic headings include real heading tags such as `h1`, `h2`.\n  examples:\n    - title: Semantic Heading\n      description: |\n        The heading below is a real heading and uses an `<h3>` tag. If you are on a\n        Mac, turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd> and then press\n        <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> to jump to\n        a heading.\n      code: |\n        <h3>A real heading</h3>\n    - title: Unsemantic Heading exercise\n      description: |\n        The heading below is a fake heading made to look like a heading with an\n        unsemantic `<div>`. Change the `<div>` below to use an `<h3>` tag. Now verify your semantic heading using the Verify button as well as\n        with VoiceOver.\n      code: |\n        <div class=\"fakeHeading\">\n          A fake heading\n        </div>\n      assertion: |\n        assert(\n          dom.querySelector('h3'),\n          \"It doesn't look like you converted the div to a real heading.\"\n        );\n\n---\n",
 	  "__path__": "slides/02-Developers/01-headings.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697650712__,
-	  "layout": __SLIDE_LOADER146663697650713__
+	  "contentConverter": __SLIDE_LOADER14666372216766__,
+	  "layout": __SLIDE_LOADER14666372216767__
 	};
 
 /***/ },
@@ -23980,14 +23980,14 @@
   \**************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER14666369764978__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER14666369764978__ = __SLIDE_LOADER14666369764978__ ?
-	  __SLIDE_LOADER14666369764978__.default || __SLIDE_LOADER14666369764978__ :
-	  __SLIDE_LOADER14666369764978__;
-	var __SLIDE_LOADER14666369764979__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER14666369764979__ = __SLIDE_LOADER14666369764979__ ?
-	  __SLIDE_LOADER14666369764979__.default || __SLIDE_LOADER14666369764979__ :
-	  __SLIDE_LOADER14666369764979__;
+	var __SLIDE_LOADER146663722168412__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722168412__ = __SLIDE_LOADER146663722168412__ ?
+	  __SLIDE_LOADER146663722168412__.default || __SLIDE_LOADER146663722168412__ :
+	  __SLIDE_LOADER146663722168412__;
+	var __SLIDE_LOADER146663722168413__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722168413__ = __SLIDE_LOADER146663722168413__ ?
+	  __SLIDE_LOADER146663722168413__.default || __SLIDE_LOADER146663722168413__ :
+	  __SLIDE_LOADER146663722168413__;
 	module.exports = {
 	  "options": {
 	    "title": "Images",
@@ -24013,8 +24013,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Images\nchapter: Writing Code\n\nlayoutData:\n  description: |\n    Screen readers interact with text on the screen. So, to convey the meaning of an image to screen reader users,\n    we put an accessible text label in the HTML. If an image is decorative, we can hide it from screen\n    reader users by giving it an empty label (`alt=\"\"`). After the completing the exercise below, you can learn a lot more about writing good alt text for images by checking out <a href=\"http://webaim.org/techniques/alttext/\">WebAIM's resource on the topic</a>.\n\n  examples:\n    - title: An Accessible Inline Image\n      description: |\n        This is an image with an alt text. Turn on VoiceOver if you are on a Mac, tab\n        to the Editor Output section, and use <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>\n        to navigate to these images. VoiceOver will announce the alt text. For the second image below, VoiceOver\n        will not announce anything meaningful since there is no alt text.\n      code: |\n        <img\n          alt=\"Teach Access Bridge logo\"\n          src=\"./images/inline-image.png\"\n        />\n\n    - title: Inaccessible Inline Image exercise\n      description: |\n        This is an image without alt text. Turn on VoiceOver and listen to how it is read. Add an `alt`\n        attribute \"Facebook logo\" to this image to make it accessible and test it again with VoiceOver.\n      code: |\n        <img\n          src=\"./images/inline-image.png\"\n\n        />\n\n      assertion: |\n        var img = dom.querySelector('img');\n        assert(\n          img.hasAttribute(\"alt\"),\n          \"It doesn't look like you added an alt to your image.\"\n        );\n---\n",
 	  "__path__": "slides/02-Developers/02-images.html.md",
-	  "contentConverter": __SLIDE_LOADER14666369764978__,
-	  "layout": __SLIDE_LOADER14666369764979__
+	  "contentConverter": __SLIDE_LOADER146663722168412__,
+	  "layout": __SLIDE_LOADER146663722168413__
 	};
 
 /***/ },
@@ -24033,14 +24033,14 @@
   \****************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697651116__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697651116__ = __SLIDE_LOADER146663697651116__ ?
-	  __SLIDE_LOADER146663697651116__.default || __SLIDE_LOADER146663697651116__ :
-	  __SLIDE_LOADER146663697651116__;
-	var __SLIDE_LOADER146663697651117__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697651117__ = __SLIDE_LOADER146663697651117__ ?
-	  __SLIDE_LOADER146663697651117__.default || __SLIDE_LOADER146663697651117__ :
-	  __SLIDE_LOADER146663697651117__;
+	var __SLIDE_LOADER146663722168716__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722168716__ = __SLIDE_LOADER146663722168716__ ?
+	  __SLIDE_LOADER146663722168716__.default || __SLIDE_LOADER146663722168716__ :
+	  __SLIDE_LOADER146663722168716__;
+	var __SLIDE_LOADER146663722168717__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722168717__ = __SLIDE_LOADER146663722168717__ ?
+	  __SLIDE_LOADER146663722168717__.default || __SLIDE_LOADER146663722168717__ :
+	  __SLIDE_LOADER146663722168717__;
 	module.exports = {
 	  "options": {
 	    "title": "Keyboard Navigation",
@@ -24067,8 +24067,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Keyboard Navigation\nchapter: Writing Code\nstyle: |\n  img {\n    width: 100px;\n    height: 100px;\n  }\n  .customButton {\n    border: 1px solid black;\n    width: 65px;\n    background-color: lightgray;\n    text-align: center;\n  }\n\nlayoutData:\n  description: |\n    Make all interactive elements work with  a keyboard. For example, make sure a button that you activate\n    with a click is also in the keyboard tab sequence and that pressing enter or space\n    activates it. Set the tabindex attribute to 0 to include an element in the browser's keyboard tab sequence.  If you want an element out of sequence, set its tabindex to -1 and use Javascript to control its focus and tab sequence, and related keyboard events. We do not recommend using tabindex values\n    greater than 0 even though browsers support them. Note that HTML links and input elements have an implied tabindex of 0.\n\n  examples:\n    - title: Semantic Button\n      description: |\n        The button below uses a semantic button tag and is correctly announced by\n        screen readers. If you are on a Mac, turn on VoiceOver and tab to the\n        button. You will hear the name of the element and the element type announced\n        by VoiceOver.\n\n      code: |\n        <button onclick=\"alert('Take a HIKE!')\">\n          Submit\n        </button>\n\n    - title: Unsemantic Button exercise\n      description: |\n        The button below is constructed using an unsemantic div. The easiest way to\n        make this semantic is to use a real button or input tag. Here is another way. In the\n        example below,\n        1. Add `role` = 'button'.\n        2. `tabindex` = '0'.\n\n        Verify with VoiceOver that you can tab to the button and hear the button name and the fact\n        that it is a button element. Note that you would need to add an onkeypress or onkeydown handler to the button so you\n        can tab to the button and press enter to activate it using just the keyboard.\n\n      code: |\n        <div class=\"customButton\">\n          Submit\n        </div>\n\n      assertion: |\n        var btn = dom.querySelector('.customButton');\n        assert(\n          btn.hasAttribute('tabindex') && btn.getAttribute('tabindex') === \"0\",\n          \"It doesn't look like you added a tabindex to your custom button.\"\n        );\n\n        assert(\n          btn.getAttribute('role') === \"button\",\n          \"It doesn't look like you added a role of button to your custom button.\"\n        );\n\n---\n",
 	  "__path__": "slides/02-Developers/03-keyboard.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697651116__,
-	  "layout": __SLIDE_LOADER146663697651117__
+	  "contentConverter": __SLIDE_LOADER146663722168716__,
+	  "layout": __SLIDE_LOADER146663722168717__
 	};
 
 /***/ },
@@ -24078,14 +24078,14 @@
   \**************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697671259__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697671259__ = __SLIDE_LOADER146663697671259__ ?
-	  __SLIDE_LOADER146663697671259__.default || __SLIDE_LOADER146663697671259__ :
-	  __SLIDE_LOADER146663697671259__;
-	var __SLIDE_LOADER146663697671360__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697671360__ = __SLIDE_LOADER146663697671360__ ?
-	  __SLIDE_LOADER146663697671360__.default || __SLIDE_LOADER146663697671360__ :
-	  __SLIDE_LOADER146663697671360__;
+	var __SLIDE_LOADER146663722169725__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722169725__ = __SLIDE_LOADER146663722169725__ ?
+	  __SLIDE_LOADER146663722169725__.default || __SLIDE_LOADER146663722169725__ :
+	  __SLIDE_LOADER146663722169725__;
+	var __SLIDE_LOADER146663722169726__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722169726__ = __SLIDE_LOADER146663722169726__ ?
+	  __SLIDE_LOADER146663722169726__.default || __SLIDE_LOADER146663722169726__ :
+	  __SLIDE_LOADER146663722169726__;
 	module.exports = {
 	  "options": {
 	    "title": "Labeling Form Controls and Interactive Elements",
@@ -24139,8 +24139,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Labeling Form Controls and Interactive Elements\ntoc: Labels\nchapter: Writing Code\nstyle: |\n    .searchBtn {\n      background-image: url('./images/search_icon.png');\n      width: 30px;\n      height: 30px;\n      background-size: 100% 100%;\n    }\n\n    #composer {\n      border: 1px solid #1466F2;\n      width: 200px;\n    }\n\n    #description {\n      font-size: 12px;\n    }\n\n    #dateFormat {\n      font-size: 13px;\n    }\n\nlayoutData:\n  description: |\n    Accessible labels are necessary to make several other types of elements understandable,\n    such as inputs, widgets, and ARIA landmark regions.\n    Accessible labels that create a delightful experience are:\n    1. Concise -- 1 to 3 simple words. Only occasionally as many as 5 words.\n    2. Meaningful -- accurately convey the purpose of the element.\n\n    There are many ways to label an interactive element such as a button or an input field, which you will see below. You can check the results of adding the various label types by testing in your screen reader too!\n\n  examples:\n    - title: Self-labeled\n      description: |\n        Some elements, like links and buttons with display text, label themselves. In this case, screen reader\n        users and all other users can perceive the label.\n\n      code: |\n        <div>\n          <button>Submit</button>\n        </div>\n\n    - title: Using <label>\n      description: |\n        If we put text on the screen near an input such as a text field, the screen reader cannot\n        reliably pick up on that visual association. It needs to be told which nearby text is the associated label.\n        One way to do this is with the `label` element.\n\n      code: |\n        <div>\n            <label for=\"lastName\">\n              Last name:\n            </label>\n            <input id=\"lastName\" type=\"text\">\n        </div>\n\n    - title: Using 'aria-labelledby'\n      description: |\n        The HTML label works only for HTML inputs. If we make a control out of other elements by using ARIA,\n        we can instead use `aria-labelledby`.\n\n      code: |\n        <div>\n          <div id=\"status\">What's on your mind?</div>\n          <div\n            aria-labelledby=\"status\"\n            contenteditable\n            id=\"composer\"\n            role=\"textbox\">\n          </div>\n        </div>\n\n    - title: Using 'aria-label'\n      description: |\n        In rare cases, the purpose of the input is visually obvious in context, but it's not obvious to someone\n        using a screen reader. We can provide contextual detail with `aria-label`.\n\n      code: |\n        <fieldset>\n          <legend>Telephone</legend>\n          <input id=\"one\" type=\"number\" aria-label=\"Area Code\">\n          <input type=\"number\" aria-label=\"Exchange Code\">\n          <input type=\"number\" aria-label=\"Line Number\">\n        </fieldset>\n\n    - title: Using 'aria-describedby'\n      description: |\n        Occasionally, a label by itself is insufficient information. If help text is present in the UI,\n        we can identify it as an accessible description by using `aria-describedby`.\n\n      code: |\n        <div>\n          <label for=\"hikeDate\">\n            HIKE completion date\n          </label>\n          <input\n            id=\"hikeDate\"\n            aria-describedby=\"dateFormat\"\n            type=\"text\" />\n          <p id=\"dateFormat\">Note: This date will be recorded.</p>\n        </div>\n\n    - title: Inaccessible Button exercise\n      description: |\n        Add an `aria-label` to the button below and label it 'search' to\n        make it accessible.\n\n      code: |\n        <button\n          class=\"searchBtn\">\n        </button>\n\n      assertion: |\n        var btn = dom.querySelector('button');\n        assert(\n          btn.hasAttribute('aria-label'),\n          \"It doesn't look like you added an aria-label to the button\"\n        );\n\n\n    - title: Inaccessible Interactive Elements exercise\n      description: |\n        Add an `aria-labelledby` to the input field below and point it to the `id` of the prompt span.\n        Also, add an `aria-describedby` to the input field and point it to the description below to\n        make it accessible.\n\n      code: |\n        <input type=\"checkbox\" />\n        <span id=\"prompt\">\n          Save Password\n        </span>\n        <p id=\"description\">\n          Your credentials will not be stored.\n        </p>\n\n      assertion: |\n        var btn = dom.querySelector('input');\n        assert(\n          btn.hasAttribute('aria-labelledby') &&\n            btn.getAttribute('aria-labelledby') === 'prompt',\n          \"It doesn't look like you added an aria-labelledby to the input field\"\n        );\n        assert(\n          btn.hasAttribute('aria-describedby') &&\n            btn.getAttribute('aria-describedby') === 'description',\n          \"It doesn't look like you added an aria-describedby to the input field\"\n        );\n---\n",
 	  "__path__": "slides/02-Developers/04-labels.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697671259__,
-	  "layout": __SLIDE_LOADER146663697671360__
+	  "contentConverter": __SLIDE_LOADER146663722169725__,
+	  "layout": __SLIDE_LOADER146663722169726__
 	};
 
 /***/ },
@@ -24159,14 +24159,14 @@
   \************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697651724__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697651724__ = __SLIDE_LOADER146663697651724__ ?
-	  __SLIDE_LOADER146663697651724__.default || __SLIDE_LOADER146663697651724__ :
-	  __SLIDE_LOADER146663697651724__;
-	var __SLIDE_LOADER146663697651725__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697651725__ = __SLIDE_LOADER146663697651725__ ?
-	  __SLIDE_LOADER146663697651725__.default || __SLIDE_LOADER146663697651725__ :
-	  __SLIDE_LOADER146663697651725__;
+	var __SLIDE_LOADER146663722169620__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722169620__ = __SLIDE_LOADER146663722169620__ ?
+	  __SLIDE_LOADER146663722169620__.default || __SLIDE_LOADER146663722169620__ :
+	  __SLIDE_LOADER146663722169620__;
+	var __SLIDE_LOADER146663722169621__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722169621__ = __SLIDE_LOADER146663722169621__ ?
+	  __SLIDE_LOADER146663722169621__.default || __SLIDE_LOADER146663722169621__ :
+	  __SLIDE_LOADER146663722169621__;
 	module.exports = {
 	  "options": {
 	    "title": "Lists",
@@ -24198,8 +24198,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Lists\nchapter: Writing Code\n\nstyle: |\n  img {\n    width: 100px;\n    height: 100px;\n  }\n\nlayoutData:\n  description: |\n    Semantic lists help screen readers understand the type of the element and the number of items in the element, and provide\n    easier navigation via list commands specific to screen readers.\n\n  examples:\n    - title: Semantic Lists Using HTML\n      description: |\n        HTML provides tags that express lists. Most likely you are already familiar with the\n        ```ul``` (unordered list) and ```ol``` (ordered list) tags.\n\n        In the example below, the list is correctly announced by screen readers as a list with three items.\n\n        1. Turn on VoiceOver with <kbd>Cmd</kbd> + <kbd>F5</kbd>.\n\n        2. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you have jumped to the Editor Output heading.\n\n        3. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd>.\n\n        VoiceOver will announce 'List 3 items'.\n\n      code: |\n        <ul>\n          <li>Eggs</li>\n          <li>Milk</li>\n          <li>Bread</li>\n        </ul>\n\n    - title: Semantic List Using ARIA Roles\n      description: |\n        The list below uses ARIA roles to express the semantics of a list from a generic div structure.\n        This approach to expressing list structure can be used if it is not possible to use the native\n        HTML list tags.\n\n        Notice that the default list styling is not applied. That is because the browser's default\n        stylesheet targets ```ul``` and ```ol``` tags.\n\n        In the example below, the list is correctly announced by screen readers as a list with three items.\n\n      code: |\n        <div role=\"list\">\n          <div role=\"listitem\">Sea</div>\n          <div role=\"listitem\">Surf</div>\n          <div role=\"listitem\">Sun</div>\n        </div>\n\n    - title: Unsemantic List exercise\n      description: |\n        Update the example below so that the items are expressed as a list. The easiest way to\n        make this semantic is to use a list tag. If that is not\n        possible, wrap the elements in a container and give\n        it a role of ```list```. The individual items will need to be identified with a role of ```listitem```.\n\n      code: |\n        <div>\n          <span>A house of straw</span>\n          <span>A house of sticks</span>\n          <span>A house of bricks</span>\n        </div>\n\n      assertion: |\n        assert(\n          dom.querySelector('[role=\"list\"]') || dom.querySelector('ul') || dom.querySelector('ol'),\n          \"You should create a wrapping element for the list. Either a 'ul', 'li' OR a 'div' with the role 'list'.\"\n        );\n        assert(\n          dom.querySelectorAll('[role=\"listitem\"]').length ==3 || dom.querySelectorAll('li').length == 3,\n          \"Wrap the items in an 'li' element or in a 'span' OR 'div' with the role 'listitem'.\"\n        );\n---\n",
 	  "__path__": "slides/02-Developers/05-list.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697651724__,
-	  "layout": __SLIDE_LOADER146663697651725__
+	  "contentConverter": __SLIDE_LOADER146663722169620__,
+	  "layout": __SLIDE_LOADER146663722169621__
 	};
 
 /***/ },
@@ -24209,14 +24209,14 @@
   \**************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697671967__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697671967__ = __SLIDE_LOADER146663697671967__ ?
-	  __SLIDE_LOADER146663697671967__.default || __SLIDE_LOADER146663697671967__ :
-	  __SLIDE_LOADER146663697671967__;
-	var __SLIDE_LOADER146663697671968__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697671968__ = __SLIDE_LOADER146663697671968__ ?
-	  __SLIDE_LOADER146663697671968__.default || __SLIDE_LOADER146663697671968__ :
-	  __SLIDE_LOADER146663697671968__;
+	var __SLIDE_LOADER146663722172439__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722172439__ = __SLIDE_LOADER146663722172439__ ?
+	  __SLIDE_LOADER146663722172439__.default || __SLIDE_LOADER146663722172439__ :
+	  __SLIDE_LOADER146663722172439__;
+	var __SLIDE_LOADER146663722172440__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722172440__ = __SLIDE_LOADER146663722172440__ ?
+	  __SLIDE_LOADER146663722172440__.default || __SLIDE_LOADER146663722172440__ :
+	  __SLIDE_LOADER146663722172440__;
 	module.exports = {
 	  "options": {
 	    "title": "Dialogs",
@@ -24243,8 +24243,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Dialogs\nchapter: Writing Code\nstyle: |\n  #slide {\n    position: initial;\n  }\n  #overlay, #overlay2 {\n    display: none;\n    position: absolute;\n    left: 0px;\n    top: 0px;\n    width: 100vw;\n    height: 100vh;\n    text-align:center;\n    z-index: 1000;\n    background-color: rgba(0, 0, 0, .4);\n  }\n\n  #container, #container2 {\n    width:400px;\n    background-color: #fff;\n    border:1px solid #000;\n    padding:15px;\n    text-align:center;\n  }\n\n  #container {\n    margin: 400px auto;\n  }\n\n  #container2 {\n    margin: 400px auto;\n  }\n\n  label {\n    float: left;\n    width: 100px;\n    clear: both;\n    text-align: right;\n    margin: 0 10px;\n  }\n\n  #content, #content2 {\n    margin: 20px 0;\n  }\n\n  #closeButton:focus {\n    outline: 2px solid #4A97F9;\n    outline-offset: 1px;\n  }\n\n  #closeImg {\n    float: right;\n    margin-top: 9px;\n  }\n\n  #sourceLink, #sourceLink2 {\n      margin: 10px;\n  }\n\n  #content2 > div {\n    margin: 10px 0;\n  }\n\nlayoutData:\n  description: |\n    Dialogs are a little bit trickier to make accessible, but with a few key principles, they can be made keyboard navigable and usable with screen readers.\n\n  examples:\n    - title: Semantic Dialog\n      description: |\n        Start VoiceOver if you are on your Mac and press enter on the Show Dialog button. You will notice that:\n        1. VoiceOver announces that a dialog is opened and the name of the dialog because\n        we have a `role` of 'dialog' with a label associated using `aria-labelledby`.\n        2. When the dialog opens, focus lands in the first focusable element in\n        the dialog.\n        3. Tabbing keeps focus within the dialog. Note that you have to write code to restrict the tab sequence to the dialog.\n        4. Closing the dialog places focus back on the source button.\n        5. Pressing the <kbd>esc</kbd> key closes the dialog and places the focus back on the source button. Note that for widgets like\n        typeaheads, pressing <kbd>esc</kbd> should close the typeahead and not the dialog.\n\n        Note that if you have textual content in the dialog besides labels, you should associate it\n        with an `aria-describedby` to the right input field so it gets announced when you tab to the input field.\n      code: |\n        <button onclick='showHideDialog(event)' id=\"sourceLink\">\n            Show Dialog\n        </button>\n        <div id=\"overlay\" onkeydown='closeDialog(event)'>\n          <div\n            id=\"container\"\n            role='dialog'\n            aria-labelledby='dialog-title'>\n              <h2 id='dialog-title'>Shipping Address</h2>\n              <div id=\"content\">\n                <div>\n                  <label for=\"inputfield\">Name </label>\n                  <input\n                    type=\"text\"\n                    name=\"Name field\"\n                    id=\"inputfield\" />\n                </div>\n              </div>\n              <div>\n                <button\n                  onclick='showHideDialog(event)'\n                  id=\"submitButton\">\n                    Submit\n                </button>\n                <button\n                  onclick='showHideDialog(event)'\n                  id=\"closeButton\">\n                    Close\n                </button>\n              </div>\n          </div>\n        </div>\n\n    - title: Unsemantic Dialog exercise\n      description: |\n        The dialog below is unsemantic:\n\n        1. The fact that a dialog opened up is not announced to VoiceOver.\n        2. The heading that labels the dialog is not announced when the dialog is opened.\n\n        To fix these issues:\n        1. Change the `<b>` to a semantic `h2` tag.\n        2. To the div with `id` container2, add a `role` of 'dialog'.\n        3. To the div with `id` container2, add `aria-labelledby`='dialog-title'.\n\n        Verify with VoiceOver.\n\n      code: |\n        <button\n          onclick='showHideDialog2(event)'\n          id=\"sourceLink2\">\n            Show Dialog\n        </button>\n        <div id=\"overlay2\" onkeydown='closeDialog2(event)'>\n          <div id=\"container2\">\n            <b id='dialog-title'>Shipping Address</b>\n            <div>\n              <div id=\"content2\">\n                <div>\n                  <label for=\"inputfield2\">Name </label>\n                  <input\n                    type=\"text\"\n                    name=\"Name field\"\n                    id=\"inputfield2\" />\n                </div>\n                <div>\n                  <button\n                    onclick='showHideDialog2(event)'\n                    id='submitButton2'>\n                      Submit\n                  </button>\n                  <button\n                    onclick='showHideDialog2(event)'\n                    id='closeButton2'>\n                      Close\n                  </button>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n\n      assertion: |\n        var dialog = dom.querySelector('#container2');\n        var title = dom.querySelector('#dialog-title');\n        var heading = dom.querySelector('h2');\n        assert(\n          dialog.hasAttribute('role') && dialog.getAttribute('role')=== \"dialog\",\n          \"It doesn't look like you added a role of 'dialog'.\"\n        );\n        assert(\n          dialog.hasAttribute('aria-labelledby') && dialog.getAttribute('aria-labelledby')=== \"dialog-title\",\n          \"It doesn't look like you associated the heading to the dialog with an aria-labelledby.\"\n        );\n        assert(\n          heading && (heading.getAttribute('id') === 'dialog-title'),\n          \"It doesn't look like you made the dialog heading semantic.\"\n        );\n\n---\n",
 	  "__path__": "slides/02-Developers/06-dialog.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697671967__,
-	  "layout": __SLIDE_LOADER146663697671968__
+	  "contentConverter": __SLIDE_LOADER146663722172439__,
+	  "layout": __SLIDE_LOADER146663722172440__
 	};
 
 /***/ },
@@ -24254,14 +24254,14 @@
   \**************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697651420__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697651420__ = __SLIDE_LOADER146663697651420__ ?
-	  __SLIDE_LOADER146663697651420__.default || __SLIDE_LOADER146663697651420__ :
-	  __SLIDE_LOADER146663697651420__;
-	var __SLIDE_LOADER146663697651421__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697651421__ = __SLIDE_LOADER146663697651421__ ?
-	  __SLIDE_LOADER146663697651421__.default || __SLIDE_LOADER146663697651421__ :
-	  __SLIDE_LOADER146663697651421__;
+	var __SLIDE_LOADER146663722170229__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722170229__ = __SLIDE_LOADER146663722170229__ ?
+	  __SLIDE_LOADER146663722170229__.default || __SLIDE_LOADER146663722170229__ :
+	  __SLIDE_LOADER146663722170229__;
+	var __SLIDE_LOADER146663722170230__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722170230__ = __SLIDE_LOADER146663722170230__ ?
+	  __SLIDE_LOADER146663722170230__.default || __SLIDE_LOADER146663722170230__ :
+	  __SLIDE_LOADER146663722170230__;
 	module.exports = {
 	  "options": {
 	    "title": "Tables",
@@ -24288,8 +24288,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Tables\nchapter: Writing Code\n\nstyle: |\n\n  .editorWithPreview > .editor,\n  .editorWithPreview > .preview {\n    width: 50%;\n  }\n\n  table, th, td {\n      border: 1px solid black;\n      text-align: center;\n      font-size: 1em;\n  }\n\n  th {\n    background-color: #ddd;\n  }\n\n  .table {\n    display: table;\n  }\n\n  .tableRow {\n    display: table-row;\n  }\n\n  .tableHeading {\n    display: table-header-group;\n    background-color: #ddd;\n  }\n\n  .tableCell, .tableHead {\n    display: table-cell;\n    padding: 3px 10px;\n    border: 1px solid #999999;\n  }\n\n  .tableHeading {\n    display: table-header-group;\n    background-color: #ddd;\n    font-weight: bold;\n  }\n\n  .tableBody {\n    display: table-row-group;\n  }\n\nlayoutData:\n  description: |\n    Tables help screen readers process information presented in a tabular format.\n    When information is presented using table markup, screen reader users can\n    read down columns and across rows, and even hear column and row headings as they do so.\n\n  examples:\n    - title: Semantic Table\n      description: |\n        The following table uses semantic table markup. HTML provides many elements and attributes to create fully\n        accessible tables. Note: ARIA 1.0 does not include HTML table equivalence; that is coming in ARIA 1.1. So\n        it is best to stick to native HTML unless you are building an interactive grid that includes two-dimensional\n        arrow key navigation of the table content. To test the table below with VoiceOver:\n\n        1. Press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Cmd</kbd> + <kbd>h</kbd> repeatedly until you reach the Editor Output region.\n        2. Now press <kbd>Ctrl</kbd> + <kbd>Opt</kbd> + <kbd>Right Arrow</kbd> repeatedly to navigate the table cells.\n\n        At this time, VoiceOver does not read the column headers in Chrome. However, VoiceOver does read them in Safari. Windows screen readers typically read column and row headers as well.\n\n      code: |\n        <table>\n          <tr>\n            <td></td>\n            <th>Week1</th>\n            <th>Week2</th>\n          </tr>\n          <tr>\n            <th>Clicks</th>\n            <td>100</td>\n            <td>90</td>\n          </tr>\n          <tr>\n            <th>Likes</th>\n            <td>60</td>\n            <td>55</td>\n          </tr>\n        </table>\n\n    - title: Unsemantic Table exercise\n      description: |\n        If the information is tabular, using CSS to create the appearance of a table makes the information\n        almost impossible for a screen reader user to understand and use. Convert the following tabular data\n        into an accessible HTML table.\n\n      code: |\n            <div class=\"table\">\n              <div class=\"tableHeading\">\n                <div class=\"tableHead\">\n                  Month\n                </div>\n                <div class=\"tableHead\">\n                  Mood\n                </div>\n              </div>\n              <div class=\"tableBody\">\n                <div class=\"tableRow\">\n                  <div class=\"tableCell\">\n                    January\n                  </div>\n                  <div class=\"tableCell\">\n                    happy\n                  </div>\n                </div>\n              </div>\n            </div>\n\n      assertion: |\n        assert(\n          dom.querySelector('table'),\n          \"Use a semantic table element.\"\n        );\n        assert(\n          dom.querySelectorAll('tr').length == 2,\n          \"Are you using semantic tr tags?\"\n        );\n        assert(\n          dom.querySelectorAll('th').length == 2,\n          \"Are you using semantic th tags?\"\n        );\n        assert(\n          dom.querySelectorAll('td').length == 2,\n          \"Are you using semantic td tags?\"\n        );\n---\n",
 	  "__path__": "slides/02-Developers/07-tables.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697651420__,
-	  "layout": __SLIDE_LOADER146663697651421__
+	  "contentConverter": __SLIDE_LOADER146663722170229__,
+	  "layout": __SLIDE_LOADER146663722170230__
 	};
 
 /***/ },
@@ -24299,14 +24299,14 @@
   \************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697671763__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697671763__ = __SLIDE_LOADER146663697671763__ ?
-	  __SLIDE_LOADER146663697671763__.default || __SLIDE_LOADER146663697671763__ :
-	  __SLIDE_LOADER146663697671763__;
-	var __SLIDE_LOADER146663697671764__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697671764__ = __SLIDE_LOADER146663697671764__ ?
-	  __SLIDE_LOADER146663697671764__.default || __SLIDE_LOADER146663697671764__ :
-	  __SLIDE_LOADER146663697671764__;
+	var __SLIDE_LOADER146663722172950__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722172950__ = __SLIDE_LOADER146663722172950__ ?
+	  __SLIDE_LOADER146663722172950__.default || __SLIDE_LOADER146663722172950__ :
+	  __SLIDE_LOADER146663722172950__;
+	var __SLIDE_LOADER146663722172951__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722172951__ = __SLIDE_LOADER146663722172951__ ?
+	  __SLIDE_LOADER146663722172951__.default || __SLIDE_LOADER146663722172951__ :
+	  __SLIDE_LOADER146663722172951__;
 	module.exports = {
 	  "options": {
 	    "title": "Menus",
@@ -24333,8 +24333,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Menus\nchapter: Writing Code\nstyle: |\n  img {\n    width: 100px;\n    height: 100px;\n  }\n\nlayoutData:\n  description: |\n    Menus, like dialogs, rely on a few key principles to render them usable with the keyboard or screen reader.\n\n  examples:\n    - title: Accessible Menu\n      description: |\n        The example below shows how to apply ARIA attributes to an unordered list\n        element to give it the semantics screen readers need to announce it as a menu.\n        It also demonstrates the JavaScript functionality you need to create the\n        appropriate keyboard interaction.\n\n        1. You can move focus to the button by pressing tab.\n        2. Pressing enter with focus on the button opens the menu and moves focus to the first menu item.\n        3. Up and down arrows navigate the menu.\n        4. Escape closes the menu, returning focus to the button.\n        5. If actions were implemented, pressing enter on a menu item would perform the action.\n\n      code: |\n        <!-- `menuExample` is a global object\n          that contains the behavior\n          methods for the menu interaction. -->\n        <div\n          id=\"popupMenuExample\"\n          class=\"popupMenuWidget\"\n          onkeydown=\"(menuExample.onKeydown.bind(menuExample))(event)\"\n          onclick=\"(menuExample.onClickWidget.bind(menuExample))(event)\">\n          <a\n            href=\"#\"\n            role=\"button\"\n            tabindex=\"0\"\n            aria-haspopup=\"true\"\n            aria-owns=\"actionsMenu\"\n            onclick=\"(menuExample.onClick.bind(menuExample))(event)\">Actions &#9660;</a>\n          <ul\n            id=\"actionsMenu\"\n            role=\"menu\"\n            data-open=\"false\"\n            onmouseover=\"(menuExample.onMouseoverMenuItem.bind(menuExample))(event)\"\n            onclick=\"(menuExample.onClickMenuItem.bind(menuExample))(event)\"\n            style=\"display: none;\">\n            <li role=\"presentation\">\n              <a\n                id=\"action_1\"\n                href=\"#\"\n                role=\"menuitem\"\n                tabindex=\"-1\"\n                data-active=\"false\">Create</a>\n            </li>\n            <li role='presentation'>\n              <a\n                id=\"action_2\"\n                href=\"#\"\n                role=\"menuitem\"\n                tabindex=\"-1\"\n                data-active=\"false\">Edit</a>\n            </li>\n            <li role='presentation'>\n              <a\n                id=\"action_3\"\n                href=\"#\"\n                role=\"menuitem\"\n                tabindex=\"-1\"\n                data-active=\"false\">Delete</a>\n            </li>\n          </ul>\n        </div>\n\n    - title: Inaccessible Menu exercise\n      description: |\n        Update the example below to include the necessary markup for making\n        this menu accessible. You should address the following issues.\n\n        1. The `a` tag with the ID `menuTrigger` has an associated popup. Therefore, it should be marked up with `aria-haspopup` and `aria-owns` to make this relationship explicit.\n        2. The `a` tag with the ID `menuTrigger` should be marked up as a button with the role `button`.\n        3. The `a` tag with the ID `menuTrigger` should be tabbable. Add an explicit `tabindex=\"0\"` to it.\n        4. The `ul` tag with the ID 'actionsMenu' should be marked up as a menu with the role `menu`.\n        5. The `a` tags inside the div with the ID `actionsMenu` are menu items. Mark them up with the role `menuitem`.\n        6. The `a` tags inside the div with the ID `actionsMenu` should not be tabbable. Add an explicit `tabindex=\"-1\"` to each of them.\n\n      code: |\n\n        <!-- `menuExample` is a global object\n          that contains the behavior\n          methods for the menu interaction. -->\n        <div\n          id=\"popupMenuExampleWithAssertions\"\n          class=\"popupMenuWidget\"\n          onclick=\"(menuExample.onClickWidget.bind(menuExample))(event)\"\n          onkeydown=\"(menuExample.onKeydown.bind(menuExample))(event)\">\n          <a\n            id=\"menuTrigger\"\n            onclick=\"(menuExample.onClick.bind(menuExample))(event)\">Actions &#9660;</a>\n          <ul\n            id=\"actionsMenu\"\n            data-open=\"false\"\n            onmouseover=\"(menuExample.onMouseoverMenuItem.bind(menuExample))(event)\"\n            onclick=\"(menuExample.onClickMenuItem.bind(menuExample))(event)\"\n            style=\"display: none;\">\n            <li role='presentation'>\n              <a\n                id=\"action_1\"\n                href=\"#\"\n                data-active=\"false\">Create</a>\n            </li>\n            <li role='presentation'>\n              <a\n                id=\"action_2\"\n                href=\"#\"\n                data-active=\"false\">Edit</a>\n            </li>\n            <li role='presentation'>\n              <a\n                id=\"action_3\"\n                href=\"#\"\n                data-active=\"false\">Delete</a>\n            </li>\n          </ul>\n        </div>\n\n      assertion: |\n        var menuWidget = dom.querySelector('#popupMenuExampleWithAssertions');\n\n        // aria-haspopup\n        assert(\n          menuWidget.querySelector('#menuTrigger').getAttribute('aria-haspopup') === 'true',\n          'Add the attribute `aria-haspopup=\"true\"` to the element with the ID `menuTrigger`'\n        );\n\n        // aria-owns\n        assert(\n          menuWidget.querySelector('#menuTrigger').getAttribute('aria-owns') === 'actionsMenu',\n          'Add the attribute `aria-owns=\"actionsMenu\"` to the element with the ID `menuTrigger`'\n        );\n        // button role\n        assert(\n          menuWidget.querySelector('#menuTrigger').getAttribute('role') === 'button',\n          'Add the attribute `role=\"button\"` to the element with the ID `menuTrigger`'\n        );\n        // button tab index\n        assert(\n          menuWidget.querySelector('#menuTrigger').getAttribute('tabIndex') === '0',\n          'Add the attribute `tabindex=\"0\"` to the element with the ID `menuTrigger`'\n        );\n\n        // menu role\n        assert(\n          menuWidget.querySelector('#actionsMenu').getAttribute('role') === 'menu',\n          'Add the attribute `role=\"menu\"` to the element with the ID `actionsMenu`'\n        );\n\n        // menu link item roles\n        assert(\n          [].slice.call(menuWidget.querySelector('#actionsMenu').querySelectorAll('a')).every(function (item) {\n            return item.getAttribute('role') === 'menuitem';\n          }),\n          'Add the attribute `role=\"menuitem\"` to each of the `a` tag elements in the element with the ID `actionsMenu`'\n        );\n\n        // menu link items tabindices\n        assert(\n          [].slice.call(menuWidget.querySelector('#actionsMenu').querySelectorAll('a')).every(function (item) {\n            return item.getAttribute('tabIndex') === '-1';\n          }),\n          'Add the attribute `tabindex=\"-1\"` to each of the `a` tag elements in the element with the ID `actionsMenu`'\n        );\n\n---\n",
 	  "__path__": "slides/02-Developers/08-menu.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697671763__,
-	  "layout": __SLIDE_LOADER146663697671764__
+	  "contentConverter": __SLIDE_LOADER146663722172950__,
+	  "layout": __SLIDE_LOADER146663722172951__
 	};
 
 /***/ },
@@ -24344,14 +24344,14 @@
   \************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697653430__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697653430__ = __SLIDE_LOADER146663697653430__ ?
-	  __SLIDE_LOADER146663697653430__.default || __SLIDE_LOADER146663697653430__ :
-	  __SLIDE_LOADER146663697653430__;
-	var __SLIDE_LOADER146663697653431__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697653431__ = __SLIDE_LOADER146663697653431__ ?
-	  __SLIDE_LOADER146663697653431__.default || __SLIDE_LOADER146663697653431__ :
-	  __SLIDE_LOADER146663697653431__;
+	var __SLIDE_LOADER146663722170633__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722170633__ = __SLIDE_LOADER146663722170633__ ?
+	  __SLIDE_LOADER146663722170633__.default || __SLIDE_LOADER146663722170633__ :
+	  __SLIDE_LOADER146663722170633__;
+	var __SLIDE_LOADER146663722170634__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722170634__ = __SLIDE_LOADER146663722170634__ ?
+	  __SLIDE_LOADER146663722170634__.default || __SLIDE_LOADER146663722170634__ :
+	  __SLIDE_LOADER146663722170634__;
 	module.exports = {
 	  "options": {
 	    "title": "ARIA",
@@ -24374,8 +24374,8 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: ARIA\nchapter: Writing Code\n\nstyle: |\n  .container {\n    font-size: 100%\n    width: 120px;\n    height: 100px;\n    border: thin solid gray;\n  }\n\n  #additionalLinks, #a11yLinkHide {\n    display: none;\n  }\n\nlayoutData:\n  description: |\n    ARIA or <a href=\"http://www.w3.org/WAI/intro/aria.php\">Accessible Rich Internet\n    Applications</a> provides a framework of roles, properties, and guidelines to help\n    develop accessible user interactions.\n\n  examples:\n    - title: ARIA\n      description:\n        For this exercise, we will focus on one small part of WAI-ARIA called landmark regions.\n        landmark regions help screen reader users do what others do when they\n        glance at a page, i.e., see its different parts from a bird's-eye view. They also\n        make it easy to move the screen reader's reading cursor to different locations on the page.\n        Instructions for this exercise are in the comment block in the editor below.\n\n      code: |\n\n        <h3>ARIA Landmarks Exercise</h3>\n        <!--\n             1. Turn on VoiceOver.\n             2. Press ctrl-opt-u.\n             3. Press right arrow until you hear \"Landmarks\".\n             4. Press down arrow to read the landmark list.\n             5. Press enter to move the VoiceOver reading cursor\n                to the beginning of one of the landmark regions.\n        -->\n        How many landmarks did you find on the page?\n        <input type=\"text\" id=\"landmarks\">\n\n      assertion: |\n        var link = document.getElementById('landmarks');\n        assert(\n          link.value === '3' || link.value === 'three',\n          \"That is not the right number of landmarks on the page!\"\n        );\n\n\n      note: |\n\n        There are several types of landmark roles. Some of them are:\n\n        `<main> = <div role=”main”>`  - Equivalent to “directing the gaze” of the screen\n          reader user. Should contain only the primary content of the page.\n\n        `<nav> = <div role=”navigation”>` - contains a set of links or elements for\n          navigating the site\n\n        `<aside> = <div role=”complementary”>` - content that supplements the main\n          content\n\n        `<div role=”search”>` - search widget\n\n        `<header> = <div role=”banner”>` - the banner of the page\n\n        `<footer> = <div role=”contentinfo”>` - information about the page such as\n          copyright, help, and information links that appear in the footer\n\n        <a href='http://www.w3.org/TR/wai-aria/roles#document_structure_roles'>\n          Other ARIA roles are documented in the WCAG spec.\n        </a>\n\n        <a href='http://www.w3.org/TR/wai-aria/states_and_properties#state_prop_def'>\n          More about ARIA states and properties\n        </a>\n\n---\n",
 	  "__path__": "slides/02-Developers/09-aria.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697653430__,
-	  "layout": __SLIDE_LOADER146663697653431__
+	  "contentConverter": __SLIDE_LOADER146663722170633__,
+	  "layout": __SLIDE_LOADER146663722170634__
 	};
 
 /***/ },
@@ -24385,10 +24385,10 @@
   \************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697653228__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697653228__ = __SLIDE_LOADER146663697653228__ ?
-	  __SLIDE_LOADER146663697653228__.default || __SLIDE_LOADER146663697653228__ :
-	  __SLIDE_LOADER146663697653228__;
+	var __SLIDE_LOADER146663722171537__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722171537__ = __SLIDE_LOADER146663722171537__ ?
+	  __SLIDE_LOADER146663722171537__.default || __SLIDE_LOADER146663722171537__ :
+	  __SLIDE_LOADER146663722171537__;
 	module.exports = {
 	  "options": {
 	    "title": "Checklist",
@@ -24398,7 +24398,7 @@
 	  "pathHash": "5b12b1ef2c8f88e8bc6feda6c3237a17",
 	  "__source__": "---\ntitle: Checklist\nchapter: Writing Code\n---\nWe've covered a bunch of ground related to accessible software development. One of the most important steps you can take is accounting for accessibility throughout the development process (not just at the end!). To aid in that process, use the following checklist as you develop your website or application:\n\n- Do all images have meaningful alternative text?\n- Is every focusable element operable using the keyboard alone?\n- Is there a consistent visible focus indicator when navigating using the keyboard?\n- Have all controls, frames, and page titles been labeled meaningfully and uniquely?\n- If custom controls/components have been implemented, have these been tested to assure that assistive technology recognizes name, role, state, and value (where applicable)?\n- Have custom controls/components been verified to work as expected using assistive technology, such as a screen reader?\n- Are error messages interpretable by assistive technology?\n- Do you have sufficient foreground and background color contrast?\n- Have captions been included with any audio or audio/visual media?\n\nThere are also a number of free tools available for assessing the accessibility:\n\n- WAVE by WebAIM for general website accessibility: http://wave.webaim.org/\n- Juicy Studio's Readability Test: http://juicystudio.com/services/readability.php\n- Vischeck's Color Blindness Checker: http://www.vischeck.com/\n",
 	  "__path__": "slides/02-Developers/10-checklist.md",
-	  "contentConverter": __SLIDE_LOADER146663697653228__
+	  "contentConverter": __SLIDE_LOADER146663722171537__
 	};
 
 /***/ },
@@ -24408,10 +24408,10 @@
   \*********************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697653534__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697653534__ = __SLIDE_LOADER146663697653534__ ?
-	  __SLIDE_LOADER146663697653534__.default || __SLIDE_LOADER146663697653534__ :
-	  __SLIDE_LOADER146663697653534__;
+	var __SLIDE_LOADER146663722173154__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722173154__ = __SLIDE_LOADER146663722173154__ ?
+	  __SLIDE_LOADER146663722173154__.default || __SLIDE_LOADER146663722173154__ :
+	  __SLIDE_LOADER146663722173154__;
 	module.exports = {
 	  "options": {
 	    "title": "Introduction",
@@ -24421,7 +24421,7 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Introduction\nchapter: Design Principles\n---\n\nIn this section, you'll learn about how color, contrast, text size and many other aspects of visual design affect how people with different abilities interact with your product. In order to ensure that everyone can use your application, you'll want to keep these basic accessibility principles in mind. This tutorial won't cover everything in the world of accessible design, but it will give you a few tips that you can immediately apply to everything you build moving forward. Happy designing!\n",
 	  "__path__": "slides/03-Designers/00-design-introduction.md",
-	  "contentConverter": __SLIDE_LOADER146663697653534__
+	  "contentConverter": __SLIDE_LOADER146663722173154__
 	};
 
 /***/ },
@@ -24431,14 +24431,14 @@
   \*********************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697653839__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697653839__ = __SLIDE_LOADER146663697653839__ ?
-	  __SLIDE_LOADER146663697653839__.default || __SLIDE_LOADER146663697653839__ :
-	  __SLIDE_LOADER146663697653839__;
-	var __SLIDE_LOADER146663697653840__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697653840__ = __SLIDE_LOADER146663697653840__ ?
-	  __SLIDE_LOADER146663697653840__.default || __SLIDE_LOADER146663697653840__ :
-	  __SLIDE_LOADER146663697653840__;
+	var __SLIDE_LOADER146663722172646__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722172646__ = __SLIDE_LOADER146663722172646__ ?
+	  __SLIDE_LOADER146663722172646__.default || __SLIDE_LOADER146663722172646__ :
+	  __SLIDE_LOADER146663722172646__;
+	var __SLIDE_LOADER146663722172647__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722172647__ = __SLIDE_LOADER146663722172647__ ?
+	  __SLIDE_LOADER146663722172647__.default || __SLIDE_LOADER146663722172647__ :
+	  __SLIDE_LOADER146663722172647__;
 	module.exports = {
 	  "options": {
 	    "title": "Color Contrast",
@@ -24460,8 +24460,8 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Color Contrast\nchapter: Design Principles\nstyle: |\n  #container {\n    background-color: #3a5795;\n    width: 45px;\n    padding: 10px;\n    margin: 10px;\n  }\n\nlayoutData:\n  description: |\n    Sufficient color contrast allows people to clearly see content on the page.\n\n  examples:\n    - title: Color Contrast (C)\n      description: |\n        The Web Content Accessibility Guidelines <a href=\"http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html\">\n        recommends a color contrast of 4.5:1</a> to meet color contrast guidelines.\n        You can use various color contrast checkers online to verify your color contrast\n        ratio. <a href=\"http://www.paciellogroup.com/resources/contrastanalyser/\">Colour Contrast Analyser</a>\n        and <a href=\"http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333\">\n        Colour Contrast Check Tool</a> are examples of tools available online.\n\n        For the two house icons below, the color contrast has been calculated\n        using the Colour Contrast Analyser. For your exercise below, please use the\n        <a href=\"http://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333\">\n        Colour Contrast Check Tool</a> to enter the background (#405865) and foreground (#FFFFFF) values specified here.\n        The tool will show you the color contrast ratio. Please replace the 'x' below with the contrast of the third icon,\n        e.g., `<span id='contrastValue'>2000</span>`.\n\n      code: |\n        <div>\n          <div id='container'>\n            <img\n              src='./images/contrast-bad-2-2.png'\n              alt='house with bad contrast' />\n          </div>\n          <span>Color Contrast -- 2.2: 1</span>\n        </div>\n\n        <div>\n          <div id='container'>\n            <img\n              src='./images/contrast-better-4-6.png'\n              alt='house with better contrast' />\n          </div>\n          <span>Color Contrast -- 4.6: 1</span>\n        </div>\n\n        <div>\n          <div id='container'>\n            <img\n              src='./images/contrast-good-7-5.png'\n              alt='house with good contrast' />\n          </div>\n          <p>Background Color: #405865<p>\n          <p>Foreground Color: #FFFFFF<p>\n          <span>Color Contrast -- </span>\n          <span id='contrastValue'>x</span>\n          <span>:1</span>\n        </div>\n\n      assertion: |\n        assert(\n          dom.querySelector('#contrastValue').innerHTML === '7.05',\n          \"Did you really use the Colour Contrast Check tool? Try again!\"\n        );\n---\n",
 	  "__path__": "slides/03-Designers/01-color-contrast.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697653839__,
-	  "layout": __SLIDE_LOADER146663697653840__
+	  "contentConverter": __SLIDE_LOADER146663722172646__,
+	  "layout": __SLIDE_LOADER146663722172647__
 	};
 
 /***/ },
@@ -24498,10 +24498,10 @@
   \***************************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697654245__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697654245__ = __SLIDE_LOADER146663697654245__ ?
-	  __SLIDE_LOADER146663697654245__.default || __SLIDE_LOADER146663697654245__ :
-	  __SLIDE_LOADER146663697654245__;
+	var __SLIDE_LOADER146663722173158__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722173158__ = __SLIDE_LOADER146663722173158__ ?
+	  __SLIDE_LOADER146663722173158__.default || __SLIDE_LOADER146663722173158__ :
+	  __SLIDE_LOADER146663722173158__;
 	module.exports = {
 	  "options": {
 	    "title": "Conveying Meaning through Color",
@@ -24511,7 +24511,7 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Conveying Meaning through Color\nchapter: Designers\n---\nColor blindness is the inability or decreased ability to see color or perceive color differences. <a href=\"https://nei.nih.gov/health/color_blindness/facts_about\">Approximately 4.5% of the world's population</a> are color blind to some degree. In order to ensure that someone with color blindness can successfully use your product, you cannot rely completely on color alone to communicate information. By extension, using colors or patterns alone to indicate something will not be accessible to a blind users. In instances where you are using color as an indicator (for instance, green for something active and grey for something inactive), include a text equivalent description for the state.\n\nHere's an example where providing a very simple texture to a bar chart will aid in readability and understanding for someone with decreased color perception.\n\nFigure A: Chart without Texture\n<br><br>\n<img src=\"./images/color-meaning-solid.png\" alt=\"Chart showing bar graph without texture\">\n<br><br>\nFigure B: Chart with Texture\n<br><br>\n<img src=\"./images/color-meaning-texture.png\" alt=\"Chart showing bar graph with distinct textures for each bar\">\n",
 	  "__path__": "slides/03-Designers/02-color-meaning.md",
-	  "contentConverter": __SLIDE_LOADER146663697654245__
+	  "contentConverter": __SLIDE_LOADER146663722173158__
 	};
 
 /***/ },
@@ -24539,14 +24539,14 @@
   \***********************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697654447__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697654447__ = __SLIDE_LOADER146663697654447__ ?
-	  __SLIDE_LOADER146663697654447__.default || __SLIDE_LOADER146663697654447__ :
-	  __SLIDE_LOADER146663697654447__;
-	var __SLIDE_LOADER146663697654448__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
-	__SLIDE_LOADER146663697654448__ = __SLIDE_LOADER146663697654448__ ?
-	  __SLIDE_LOADER146663697654448__.default || __SLIDE_LOADER146663697654448__ :
-	  __SLIDE_LOADER146663697654448__;
+	var __SLIDE_LOADER146663722173460__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722173460__ = __SLIDE_LOADER146663722173460__ ?
+	  __SLIDE_LOADER146663722173460__.default || __SLIDE_LOADER146663722173460__ :
+	  __SLIDE_LOADER146663722173460__;
+	var __SLIDE_LOADER146663722173461__ = __webpack_require__(/*! ./layouts/HTMLExercise.js */ 177);
+	__SLIDE_LOADER146663722173461__ = __SLIDE_LOADER146663722173461__ ?
+	  __SLIDE_LOADER146663722173461__.default || __SLIDE_LOADER146663722173461__ :
+	  __SLIDE_LOADER146663722173461__;
 	module.exports = {
 	  "options": {
 	    "title": "Text Size",
@@ -24568,8 +24568,8 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Text Size\nchapter: Designers\nstyle: |\n  #container {\n    font-size: 100%\n    width: 80px;\n    height: 50px;\n    border: thin solid gray;\n    margin: 10px;\n  }\n\n  #additionalLinks, #a11yLinkHide {\n    display: none;\n  }\n\nlayoutData:\n  description: |\n    People with low vision use browser zoom tools and assistive technology such\n    as [ZoomText](http://www.aisquared.com/products/zoomtext/) to increase the size of content on the screen. This exercise shows you the difference between\n    zooming all the content versus zooming just the text on the page.\n\n  examples:\n    - title: Text Size (T)\n      description: |\n        For people with low vision, it is important to support the ability to increase\n        text size without text overlapping or getting truncated. To test, use your browser's\n        built-in zoom or text-resize feature to zoom and make sure text is still readable.\n        If you are building for the mobile web, please don't disable pinch and zoom.\n\n        <a href='http://www.w3.org/TR/2008/REC-WCAG20-20081211/#visual-audio-contrast-scale'>\n          WCAG guidelines recommend allowing zooming up to 200% without loss of content.\n        </a>\n\n        <a href='http://webaim.org/techniques/fonts/#font_size'>\n          More on fonts and accessibility in the WebAIM site.\n        </a>\n\n        For the exercise below, you will need a browser like Safari that allows you to\n        increase just the text size instead of zooming in the whole page. On Safari,\n        go to View and Zoom Text Only and then select Zoom In from the same menu. You\n        will notice that the words bleed outside the box below. Try fixing this example\n        by specifying the width and height as relative units, such as ems. Set the height\n        to 3em and width to 10em and verify your answers.\n\n      code: |\n        <div\n          id='container'>\n            Lorem ipsum dolor sit amet\n        </div>\n\n      assertion: |\n        var container = dom.querySelector('#container');\n        assert(\n          container.style.height === '3em' && container.style.width === '10em',\n          \"It doesn't seem like the height and width are set to the right ems\"\n        );\n---\n",
 	  "__path__": "slides/03-Designers/03-text.html.md",
-	  "contentConverter": __SLIDE_LOADER146663697654447__,
-	  "layout": __SLIDE_LOADER146663697654448__
+	  "contentConverter": __SLIDE_LOADER146663722173460__,
+	  "layout": __SLIDE_LOADER146663722173461__
 	};
 
 /***/ },
@@ -24579,10 +24579,10 @@
   \***********************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697654551__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697654551__ = __SLIDE_LOADER146663697654551__ ?
-	  __SLIDE_LOADER146663697654551__.default || __SLIDE_LOADER146663697654551__ :
-	  __SLIDE_LOADER146663697654551__;
+	var __SLIDE_LOADER146663722173664__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722173664__ = __SLIDE_LOADER146663722173664__ ?
+	  __SLIDE_LOADER146663722173664__.default || __SLIDE_LOADER146663722173664__ :
+	  __SLIDE_LOADER146663722173664__;
 	module.exports = {
 	  "options": {
 	    "title": "Copy Writing",
@@ -24592,7 +24592,7 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Copy Writing\nchapter: Designers\n---\nThe content you write for your website or application matters a great deal for its usability and accessibility. The Web Content Accessibility Guidelines recommends that you use a reading ability equivalent of a <a href=\"http://www.w3.org/WAI/WCAG20/quickref/#qr-meaning-supplements\">lower secondary education level</a>. That's a good, general rule of thumb to go by. Here are a few more:\n\n- Avoid using directional language like “below” and “left/right.” These require that you can see the visual layout of the page.\n- Use alt-text for images. Alt-text describes the contents of an image to someone who is visually impaired and using a screen reader. If your designs include images that you've created (not user-generated images), you need to provide alt-text in your front end layer.\n- Provide explanatory and context-specific text where possible. Explanatory text consists of short text strings that describe an interface element’s function (ex: if you have a search button that looks like a magnifying glass, you might consider adding an on-hover tooltip of \"Search\").\n\nTake note that if your website or application includes other text artifacts like PDFs, you may need to provide unique accessibility support for those media.\n",
 	  "__path__": "slides/03-Designers/04-site-copy.md",
-	  "contentConverter": __SLIDE_LOADER146663697654551__
+	  "contentConverter": __SLIDE_LOADER146663722173664__
 	};
 
 /***/ },
@@ -24602,10 +24602,10 @@
   \********************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697654654__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697654654__ = __SLIDE_LOADER146663697654654__ ?
-	  __SLIDE_LOADER146663697654654__.default || __SLIDE_LOADER146663697654654__ :
-	  __SLIDE_LOADER146663697654654__;
+	var __SLIDE_LOADER146663722173867__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722173867__ = __SLIDE_LOADER146663722173867__ ?
+	  __SLIDE_LOADER146663722173867__.default || __SLIDE_LOADER146663722173867__ :
+	  __SLIDE_LOADER146663722173867__;
 	module.exports = {
 	  "options": {
 	    "title": "Photos & Videos",
@@ -24615,7 +24615,7 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Photos & Videos\nchapter: Design Principles\n---\nWhile alt-text can make a static photo or graphic accessible to screen reader users, when an image is dynamic (e.g., animated GIF or video) and contains audio, additional support is required for users who are blind or deaf.\n\n<img src='./images/captions.png', alt='Captions displayed over video screen shot' />\n\nWhen providing video, via either an embedded or standalone video player, the controls of that player need to be operable by a keyboard-only user (i.e., without a mouse). Controls such as play, pause, fast forward, rewind and scrub bars and closed caption buttons all need to be labeled properly and available to a screen reader user in the same way any web page is made accessible.\n\n\"Audio description\" (also known as \"video description\") provides an added narrative track that describes key visual elements of a animation or video or movie. Timed to be heard during pauses in dialog, descriptions can be recorded and synchronized with the video or made available as text to be read by a screen reader. With HTML5 video players and the video and track elements, audio descriptions can even be heard while a video is automatically paused. For more on how to deliver descriptions, see the following resources:\n- http://webaim.org/techniques/captions/\n- https://www.w3.org/WAI/GL/wiki/Using_the_track_element_to_provide_audio_descriptions\n- http://www.ssbbartgroup.com/blog/cvaa-video-programming-requirements-video-description/\n\nClosed captioning involves the addition of text to synchronized to a video's audio by either embedding caption data in your video or adding a \"sidecar\" closed caption file to your server. There are a variety of caption formats used by content providers as well as tools for creating captions. Many vendors are available to provide captions in the format that works for your video player's needs. Resources for captioning media:\n- http://webaim.org/techniques/captions/\n- http://info.3playmedia.com/wp-best-practices.html\n",
 	  "__path__": "slides/03-Designers/05-photos.md",
-	  "contentConverter": __SLIDE_LOADER146663697654654__
+	  "contentConverter": __SLIDE_LOADER146663722173867__
 	};
 
 /***/ },
@@ -24634,10 +24634,10 @@
   \***********************************************************************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var __SLIDE_LOADER146663697654856__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
-	__SLIDE_LOADER146663697654856__ = __SLIDE_LOADER146663697654856__ ?
-	  __SLIDE_LOADER146663697654856__.default || __SLIDE_LOADER146663697654856__ :
-	  __SLIDE_LOADER146663697654856__;
+	var __SLIDE_LOADER146663722174069__ = __webpack_require__(/*! ./~/exerslide-plugin-markdown-converter/contentTypes/text_x-markdown.js */ 3);
+	__SLIDE_LOADER146663722174069__ = __SLIDE_LOADER146663722174069__ ?
+	  __SLIDE_LOADER146663722174069__.default || __SLIDE_LOADER146663722174069__ :
+	  __SLIDE_LOADER146663722174069__;
 	module.exports = {
 	  "options": {
 	    "title": "Checklist",
@@ -24647,7 +24647,7 @@
 	  "pathHash": "1b6ea2f1b7439b02d943ec201d4b49e7",
 	  "__source__": "---\ntitle: Checklist\nchapter: Design Principles\n---\nWe've covered a bunch of ground related to improving the accessibility of visual designs. One of the most important steps you can take to ensuring you create accessible experiences is accounting for accessibility at the start and throughout the design process. To that end, use the following checklist when you begin to formalize your visual designs for a website or application:\n\n- Do I have sufficient contrast between text and my background?\n- Do I have sufficient contrast between UI elements and my background?\n- Are there any places where I'm color or other visual means alone to indicate something (ie, no text equivalent)?\n- Is my written content simple and easy to understand?\n- Are there any cases where the screen is flashing or flickering?\n- Does every mouse interaction have a keyboard-only equivalent interaction?\n- Have captions been included with any audio or audio/visual presentation?\n- If any interaction involves a timed response or session timeout, is this communicated well?\n\nThere are also a number of free tools available for assessing the accessibility:\n\n- WAVE by WebAIM for general website accessibility: http://wave.webaim.org/\n- Juicy Studio's Readability Test: http://juicystudio.com/services/readability.php\n- Vischeck's Color Blindness Checker: http://www.vischeck.com/\n",
 	  "__path__": "slides/03-Designers/06-checklist.md",
-	  "contentConverter": __SLIDE_LOADER146663697654856__
+	  "contentConverter": __SLIDE_LOADER146663722174069__
 	};
 
 /***/ },
@@ -43228,16 +43228,6 @@
 	    _react2.default.createElement(
 	      'div',
 	      { id: 'main', className: 'flex-column' },
-	      slide.__path__ ? // for debugging
-	      _react2.default.createElement(
-	        'div',
-	        {
-	          role: 'region',
-	          'aria-label': 'File path of current slide',
-	          className: '__exerslide__file_path flex-item-fix' },
-	        'File path: ',
-	        slide.__path__
-	      ) : null,
 	      _react2.default.createElement('img', { style: { alignSelf: 'flex-end', width: 122, margin: 10 }, src: 'logo-teach-access.svg', alt: 'Teach Access Bridge' }),
 	      children,
 	      _react2.default.createElement(_Toolbar2.default, {
